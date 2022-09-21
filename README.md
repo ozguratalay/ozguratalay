@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ozguratalay
-- I’m interested in Mobile Development
-- I’m currently learning Swift and i really enjoy it. Also i am learning C# too and i've done some achievements until now.
+- I develope .Net and .Net Core projects. I am newbie at programming and still learning many things everyday. This repo will be my mirror for sure! Enjoy!
 - e-mail: ozratalay@gmail.com
 - LinkedIn: linkedin.com/in/özgür-atalay-807649151
 
